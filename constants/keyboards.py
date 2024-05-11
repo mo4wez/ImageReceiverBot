@@ -9,7 +9,8 @@ CATEGORIES = [
     "Park",
     "Accidents",
     "Natural Disaster",
-    "Food"
+    "Food",
+    "Others"
 ]
 
 # Create reply keyboard markup
